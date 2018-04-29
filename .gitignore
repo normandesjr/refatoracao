@@ -16,5 +16,6 @@ DS_Store
 /.idea/
 *.iml
 
+/.recommenders/
 
-
+**/.idea/
